@@ -1,4 +1,4 @@
-package com.company.MethodReference;
+package com.company.methodReference;
 
 interface FunctionalInterface{
     Message getMessage();

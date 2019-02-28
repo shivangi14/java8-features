@@ -1,4 +1,4 @@
-package com.company.MethodReference;
+package com.company.methodReference;
 
 interface Sayable{
     void say(String S);

@@ -1,6 +1,5 @@
 package com.company.functionalInterface;
 
-import java.sql.SQLOutput;
 import java.util.function.Predicate;
 
 public class PredicateFunctionalInterface {
